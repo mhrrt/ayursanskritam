@@ -1,0 +1,22 @@
+[
+  {
+    "letter": "अ",
+    "audio": "./audio/a.mp3"
+  },
+  {
+    "letter": "आ",
+    "audio": "./audio/aa.mp3"
+  },
+  {
+    "letter": "इ",
+    "audio": "./audio/i.mp3"
+  },
+  {
+    "letter": "क",
+    "audio": "./audio/ka.mp3"
+  },
+  {
+    "letter": "ख",
+    "audio": "./audio/kha.mp3"
+  }
+]
